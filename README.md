@@ -1,70 +1,60 @@
 # Ramesh Awasthi
 
-### Infrastructure & Cloud Engineer
+### Infrastructure & Cloud Engineer · Japan
 
-**Enterprise Infrastructure · Hybrid Cloud · VMware · AWS · Azure · OCI · Monitoring · Automation**
+**Enterprise Infrastructure | Hybrid Cloud Migration | AWS & OCI Architecture | VMware | Azure | Monitoring | Automation**
 
-I am an Infrastructure & Cloud Engineer based in Japan, with more than eight years of experience across enterprise IT infrastructure, virtualization, cloud platforms, networking and operations.
+Infrastructure & Cloud Engineer with 8+ years of experience across enterprise IT, cloud transformation, VMware virtualization, networking and operations. Current focus: hybrid-cloud migration planning and target design for 400+ VM workloads, AWS / OCI architecture, centralized monitoring and Microsoft 365 Copilot Agent Builder prototypes.
 
-My work connects hands-on infrastructure engineering with cloud migration assessments, architecture reviews, disaster recovery planning, technology evaluation and stakeholder collaboration. I focus on secure, reliable systems and practical improvements that engineering teams can support over time.
+[**Portfolio website**](https://rameshawasthi.github.io/portfolio/) · [**LinkedIn**](https://www.linkedin.com/in/ramesh-awasthi-561b01291/)
 
-[**Explore my portfolio**](https://github.com/rameshawasthi/portfolio) · [**LinkedIn**](https://www.linkedin.com/in/ramesh-awasthi-561b01291/)
+## Featured engineering work
 
----
+- **Hybrid cloud migration:** IBM Cloud VMware to AWS / OCI target design and migration planning for 400+ VM workloads. Work includes discovery, application dependency analysis, sizing, hybrid connectivity, IAM, backup / DR, migration waves and validation.
+- **AWS target architecture:** EC2, VPC, Transit Gateway, Direct Connect, Site-to-Site VPN, IAM and AWS Backup. Discovery tools: Migration Evaluator, Application Discovery Service and Migration Hub.
+- **OCI / OCVS architecture:** Compute, VCN, DRG, FastConnect, IAM, Object Storage and VMware-based cloud options.
+- **Enterprise monitoring:** Zabbix / PRTG evaluation, VMware / NSX-T / vSAN coverage, network / cloud metrics, alert design and operational workflow.
+- **Energy application migration to Azure:** generalized enterprise application migration, Azure architecture, UAT, production validation, backup / DR and Datadog / SolarWinds monitoring.
+- **Copilot Agent Builder prototypes:** meeting intelligence, Outlook email intelligence and SharePoint / OneDrive project knowledge use cases, with human validation.
 
-## Areas of focus
+## Technical skills
 
-| Discipline | Platforms and tools |
+| Domain | Technologies |
 |---|---|
-| **Cloud & hybrid infrastructure** | AWS, Microsoft Azure, IBM Cloud, Oracle Cloud Infrastructure (OCI), Oracle Cloud VMware Solution (OCVS) |
-| **Virtualization** | VMware vSphere, ESXi, vCenter, vSAN, NSX-T, HCX, Microsoft Hyper-V |
-| **Enterprise systems** | Windows Server, Linux, Active Directory, enterprise storage, backup and disaster recovery |
-| **Networking & security** | Cisco, Fortinet, Sophos, routing, switching, VLAN, VPN, firewalls |
-| **Monitoring & observability** | Zabbix, PRTG, Grafana, Datadog, SolarWinds, Azure Monitor and AWS CloudWatch |
-| **Infrastructure automation** | Terraform, Ansible, shell scripting and Git |
-| **AI-enabled productivity** | Microsoft 365 Copilot, Copilot Agent Builder prototypes, SharePoint, Teams and Outlook |
+| Cloud | AWS, Microsoft Azure, IBM Cloud, OCI, OCVS |
+| AWS | EC2, VPC, Transit Gateway, Direct Connect, VPN, IAM, Backup, Migration Evaluator, Application Discovery, Migration Hub |
+| OCI | Compute, VCN, DRG, FastConnect, IAM, Object Storage |
+| Azure | VMs, VNet, NSG, RBAC, App Service, Backup, Site Recovery, Monitor, Log Analytics, Key Vault, MySQL Flexible Server |
+| Virtualization | VMware vSphere, ESXi, vCenter, vSAN, NSX-T, HCX, vMotion, Hyper-V |
+| Systems | Windows Server, RHEL, CentOS, Ubuntu, SUSE, Oracle DB, SQL Server, MySQL |
+| Network & security | Cisco, Fortinet, Sophos, Palo Alto, SonicWall, pfSense, HAProxy, VLAN, VPN, AD DS, Entra ID |
+| Monitoring | Zabbix, PRTG, Grafana, Datadog, SolarWinds, CloudWatch, Azure Monitor, Nagios |
+| Automation & AI | Terraform, Ansible, Shell, Git, Azure DevOps, Power Automate, Copilot Agent Builder |
 
-*The tools listed span direct delivery, engineering operations, technical assessments and ongoing learning; they are not proficiency rankings.*
+## Certifications & learning — newest first
 
-## Professional engineering work
+- **May 2026** — AWS Certified Solutions Architect – Professional (valid through May 2029)
+- **October 2024** — Data Science: Capacity Building Program · Omdena
+- **September 2024** — Microsoft Certified: Azure Data Engineer Associate (validity listed through September 2025)
+- **May 2024** — Microsoft Certified: Azure Solutions Architect Expert (validity listed through May 2025)
+- **April 2024** — Microsoft Certified: Power BI Data Analyst (validity listed through April 2025)
+- **March 2024** — Microsoft Certified: Azure Administrator (validity listed through March 2025)
+- **November 2022** — Neural Networks and Deep Learning · DeepLearning.AI
+- **May 2022** — Advanced Python Programming (1) · Alibaba Cloud
+- **May 2022** — Advanced Python Programming (2) · Alibaba Cloud Global
+- **June 2021** — Alibaba Cloud DevOps Specialty
 
-**Hybrid cloud and enterprise architecture:** Contributed to environment assessments, target-cloud comparisons, workload migration planning, cost analysis and disaster recovery reviews in VMware-based enterprise environments.
+[View LinkedIn certification details](https://www.linkedin.com/in/ramesh-awasthi-561b01291/details/certifications/).
 
-**Enterprise monitoring:** Worked on monitoring-platform evaluation, infrastructure coverage requirements, alert strategy, technical architecture and operating-model considerations.
+## Education
 
-**Azure migration:** Supported migration-related design, provisioning, backup and recovery, monitoring, testing and operational cost reporting for enterprise workloads.
+- B.E. in Information Technology — Nepal Engineering College (NCIT), Pokhara University
+- Higher Secondary Education — Science Stream, National Academy of Science and Technology
 
-**Enterprise modernization:** Supported server virtualization, networks, security, backup, IP telephony and operational improvements across multi-site business environments.
+## Selected repositories
 
-**Practical AI agents:** Built and tested Microsoft 365 Copilot Agent Builder prototypes for meeting notes, email analysis and project knowledge work. Copilot Studio has been evaluated as a future option; I do not claim it was deployed in production.
+- [Existing portfolio](https://github.com/rameshawasthi/portfolio)
+- [Prometheus scripts](https://github.com/rameshawasthi/prometheus-scripts)
+- [MLOps learning repository](https://github.com/rameshawasthi/MLOPS)
 
-## Selected GitHub repositories
-
-- [**Professional portfolio**](https://github.com/rameshawasthi/portfolio) — my existing responsive portfolio website, career story and project case studies.
-- [**Prometheus scripts**](https://github.com/rameshawasthi/prometheus-scripts) — public scripts and notes for monitoring-tool exploration.
-- [**MLOps**](https://github.com/rameshawasthi/MLOPS) — personal study and practice resources for ML operations.
-
-## Certifications and education
-
-**Recent credentials**
-- AWS Certified Solutions Architect – Professional (May 2026)
-- HashiCorp Certified: Terraform Associate (004) (July 2026)
-- Microsoft Certified: Azure Solutions Architect Expert (May 2024)
-- Microsoft Certified: Azure Administrator Associate (March 2024)
-- Microsoft Certified: Azure Data Engineer Associate (September 2024)
-- Microsoft Certified: Power BI Data Analyst Associate (April 2024)
-- Foundations of Data Science — Omdena Academy (October 2024)
-
-**Education:** Bachelor of Engineering in Information Technology, Nepal Engineering College (Pokhara University), 2017.
-
-**Languages:** Nepali, English, Hindi and Japanese.
-
----
-
-### Professional interests
-
-Hybrid cloud architecture, secure infrastructure modernization, reliability engineering, monitoring, Infrastructure as Code and well-governed AI adoption.
-
-**Connect professionally:** [LinkedIn](https://www.linkedin.com/in/ramesh-awasthi-561b01291/) · [GitHub](https://github.com/rameshawasthi)
-
-*Confidential projects are summarized at a safe level. Current employer details and private contact information are intentionally omitted.*
+*Current employer identity and personal contact details remain private.*
