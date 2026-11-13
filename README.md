@@ -43,6 +43,7 @@ Infrastructure & Cloud Engineer with 8+ years of experience across enterprise IT
 - **May 2022** — Advanced Python Programming (1) · Alibaba Cloud
 - **May 2022** — Advanced Python Programming (2) · Alibaba Cloud Global
 - **June 2021** — Alibaba Cloud DevOps Specialty
+- **Date not listed in CV** — NAT-TEST Level 5 (Japanese language)
 
 [View LinkedIn certification details](https://www.linkedin.com/in/ramesh-awasthi-561b01291/details/certifications/).
 
