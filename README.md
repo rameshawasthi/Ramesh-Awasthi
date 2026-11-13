@@ -1,9 +1,61 @@
-<h1 align="center">Hi There, I'm Ramesh Awasthi</h1>
-<h3 align="center">With strong background in System and Network Engineering now Passionate about machine learning, I am dedicated to forging a fulfilling and impactful career in this dynamic and rapidly evolving field. With a strong enthusiasm for data-driven solutions, I aspire to contribute to the exciting advancements and real-world applications of machine learning.</h3>
+# Ramesh Awasthi
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Infrastructure & Cloud Engineer · Japan
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Enterprise Infrastructure | Hybrid Cloud Migration | AWS & OCI Architecture | VMware | Azure | Monitoring | Automation**
+
+Infrastructure & Cloud Engineer with 8+ years of experience across enterprise IT, cloud transformation, VMware virtualization, networking and operations. Current focus: hybrid-cloud migration planning and target design for 400+ VM workloads, AWS / OCI architecture, centralized monitoring and Microsoft 365 Copilot Agent Builder prototypes.
+
+[**Portfolio website**](https://rameshawasthi.github.io/portfolio/) · [**LinkedIn**](https://www.linkedin.com/in/ramesh-awasthi-561b01291/)
+
+## Featured engineering work
+
+- **Hybrid cloud migration:** IBM Cloud VMware to AWS / OCI target design and migration planning for 400+ VM workloads. Work includes discovery, application dependency analysis, sizing, hybrid connectivity, IAM, backup / DR, migration waves and validation.
+- **AWS target architecture:** EC2, VPC, Transit Gateway, Direct Connect, Site-to-Site VPN, IAM and AWS Backup. Discovery tools: Migration Evaluator, Application Discovery Service and Migration Hub.
+- **OCI / OCVS architecture:** Compute, VCN, DRG, FastConnect, IAM, Object Storage and VMware-based cloud options.
+- **Enterprise monitoring:** Zabbix / PRTG evaluation, VMware / NSX-T / vSAN coverage, network / cloud metrics, alert design and operational workflow.
+- **Energy application migration to Azure:** generalized enterprise application migration, Azure architecture, UAT, production validation, backup / DR and Datadog / SolarWinds monitoring.
+- **Copilot Agent Builder prototypes:** meeting intelligence, Outlook email intelligence and SharePoint / OneDrive project knowledge use cases, with human validation.
+
+## Technical skills
+
+| Domain | Technologies |
+|---|---|
+| Cloud | AWS, Microsoft Azure, IBM Cloud, OCI, OCVS |
+| AWS | EC2, VPC, Transit Gateway, Direct Connect, VPN, IAM, Backup, Migration Evaluator, Application Discovery, Migration Hub |
+| OCI | Compute, VCN, DRG, FastConnect, IAM, Object Storage |
+| Azure | VMs, VNet, NSG, RBAC, App Service, Backup, Site Recovery, Monitor, Log Analytics, Key Vault, MySQL Flexible Server |
+| Virtualization | VMware vSphere, ESXi, vCenter, vSAN, NSX-T, HCX, vMotion, Hyper-V |
+| Systems | Windows Server, RHEL, CentOS, Ubuntu, SUSE, Oracle DB, SQL Server, MySQL |
+| Network & security | Cisco, Fortinet, Sophos, Palo Alto, SonicWall, pfSense, HAProxy, VLAN, VPN, AD DS, Entra ID |
+| Monitoring | Zabbix, PRTG, Grafana, Datadog, SolarWinds, CloudWatch, Azure Monitor, Nagios |
+| Automation & AI | Terraform, Ansible, Shell, Git, Azure DevOps, Power Automate, Copilot Agent Builder |
+
+## Certifications & learning — newest first
+
+- **May 2026** — AWS Certified Solutions Architect – Professional (valid through May 2029)
+- **October 2024** — Data Science: Capacity Building Program · Omdena
+- **September 2024** — Microsoft Certified: Azure Data Engineer Associate (validity listed through September 2025)
+- **May 2024** — Microsoft Certified: Azure Solutions Architect Expert (validity listed through May 2025)
+- **April 2024** — Microsoft Certified: Power BI Data Analyst (validity listed through April 2025)
+- **March 2024** — Microsoft Certified: Azure Administrator (validity listed through March 2025)
+- **November 2022** — Neural Networks and Deep Learning · DeepLearning.AI
+- **May 2022** — Advanced Python Programming (1) · Alibaba Cloud
+- **May 2022** — Advanced Python Programming (2) · Alibaba Cloud Global
+- **June 2021** — Alibaba Cloud DevOps Specialty
+- **Date not listed in CV** — NAT-TEST Level 5 (Japanese language)
+
+[View LinkedIn certification details](https://www.linkedin.com/in/ramesh-awasthi-561b01291/details/certifications/).
+
+## Education
+
+- B.E. in Information Technology — Nepal Engineering College (NCIT), Pokhara University
+- Higher Secondary Education — Science Stream, National Academy of Science and Technology
+
+## Selected repositories
+
+- [Existing portfolio](https://github.com/rameshawasthi/portfolio)
+- [Prometheus scripts](https://github.com/rameshawasthi/prometheus-scripts)
+- [MLOps learning repository](https://github.com/rameshawasthi/MLOPS)
+
+*Current employer identity and personal contact details remain private.*
