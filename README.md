@@ -1,9 +1,68 @@
-<h1 align="center">Hi There, I'm Ramesh Awasthi</h1>
-<h3 align="center">With strong background in System and Network Engineering now Passionate about machine learning, I am dedicated to forging a fulfilling and impactful career in this dynamic and rapidly evolving field. With a strong enthusiasm for data-driven solutions, I aspire to contribute to the exciting advancements and real-world applications of machine learning.</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+# Ramesh Awasthi
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Infrastructure & Cloud Engineer
+
+**5+ years of professional IT experience** across enterprise infrastructure, systems administration, networking, cloud operations and monitoring.
+
+[LinkedIn](https://www.linkedin.com/in/ramesh-awasthi-561b01291/) · [Portfolio](https://github.com/rameshawasthi/portfolio) · [Email](mailto:rmh.awasthi@gmail.com)
+
+</div>
+
+---
+
+## About
+
+I am an Infrastructure & Cloud Engineer with a professional background in enterprise IT operations, network engineering, Linux and Windows server administration, virtualization, cloud platforms and infrastructure monitoring.
+
+My work and technical interests focus on building reliable, secure and observable IT environments. I also explore automation and practical AI-enabled workflows that can improve documentation, knowledge retrieval and day-to-day operations.
+
+I am currently based in Japan. My current employer and internal enterprise project details are intentionally kept private.
+
+## Technical focus
+
+| Area | Technologies and topics |
+|---|---|
+| **Systems & virtualization** | Linux, Windows Server, VMware vSphere, ESXi, vCenter, NSX, vSAN |
+| **Cloud & hybrid infrastructure** | AWS, IBM Cloud, Oracle Cloud Infrastructure (OCI), OCVS, DigitalOcean |
+| **Networking & security** | LAN/WAN, VLAN, routing, switching, VPN, firewalls, Cisco, MikroTik, Sophos, Fortinet, Ubiquiti |
+| **Monitoring & observability** | Zabbix, PRTG evaluation, Prometheus, Grafana, CloudWatch, OCI Monitoring, Syslog |
+| **Automation & DevOps** | Python, Bash, Git, Jenkins, GitLab, Docker, Chef |
+| **AI & data exploration** | Microsoft 365 Copilot Agent Builder, Pandas, NumPy, Matplotlib, scikit-learn |
+
+*My experience varies by technology: some are used in professional environments, while others are part of technical evaluation, project work or ongoing learning.*
+
+## Selected repositories
+
+- [**Portfolio**](https://github.com/rameshawasthi/portfolio) — professional profile and selected engineering work.
+- [**prometheus-scripts**](https://github.com/rameshawasthi/prometheus-scripts) — Prometheus-related shell script notes.
+- [**Data-Science**](https://github.com/rameshawasthi/Data-Science) — data science and machine-learning notebooks and notes.
+- [**MLOPS**](https://github.com/rameshawasthi/MLOPS) — MLOps learning and implementation notes.
+- [**Machine-Learning-and-AI**](https://github.com/rameshawasthi/Machine-Learning-and-AI) — machine-learning and AI project workspace.
+- [**CardioTime**](https://github.com/rameshawasthi/CardioTime-Predictive-Analysis-of-Cardiac-Arrest-Using-Time-Series-Data) — exploratory time-series predictive-analysis project.
+- [**COPD Risk Factors in Nepal**](https://github.com/rameshawasthi/COPD_Risk_Factors_Nepal) — exploratory machine-learning research project; not a clinically validated diagnostic tool.
+
+## Professional development
+
+- Alibaba Cloud — DevOps Specialist
+- Alibaba Cloud — Associate Cloud Computing
+- Alibaba Cloud — Associate Cloud Security
+- Advanced Python Programming
+- Coursera — Mathematics for Machine Learning
+- Coursera — Machine Learning and Deep Learning coursework
+
+## Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/ramesh-awasthi-561b01291/
+- **GitHub:** https://github.com/rameshawasthi
+- **Portfolio repository:** https://github.com/rameshawasthi/portfolio
+- **Email:** rmh.awasthi@gmail.com
+
+---
+
+<div align="center">
+
+*Continuous learning. Practical engineering. Reliable infrastructure.*
+
+</div>
